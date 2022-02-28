@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two grand ingrossers of Coles: viz. the wood-monger, and the chandler. In a dialogue, expressing their unjust, and cruell raising the price of coales, when, and how they please, to the generall oppression of the poore. Penn'd on purpose to lay open their subtile practises, and for the reliefe of many thousands of poore people, in, and about the cities of London, and Westminster. By a well-willer to the prosperity of this famous Common-wealth.</title>
+            <author>Well-willer to the prosperity of this famous Common-wealth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95422</idno>
+            <idno type="STC">Wing T3444</idno>
+            <idno type="STC">Thomason E725_8</idno>
+            <idno type="STC">ESTC R206766</idno>
+            <idno type="EEBO-CITATION">99865872</idno>
+            <idno type="PROQUEST">99865872</idno>
+            <idno type="VID">118123</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118123)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two grand ingrossers of Coles: viz. the wood-monger, and the chandler. In a dialogue, expressing their unjust, and cruell raising the price of coales, when, and how they please, to the generall oppression of the poore. Penn'd on purpose to lay open their subtile practises, and for the reliefe of many thousands of poore people, in, and about the cities of London, and Westminster. By a well-willer to the prosperity of this famous Common-wealth.</title>
+                  <author>Well-willer to the prosperity of this famous Common-wealth.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Harrison at the Holy-Lamb at the east end of S. Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb. 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal trade --  England --  London --  Early works to 1800.</term>
+               <term>Coal trade --  Westminster --  Early works to 1800.</term>
+               <term>Poor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118123:1" rendition="simple:additions"/>
+            <p>THE TWO GRAND INGROSSERS OF COLES: <hi>VIZ.</hi> The <hi>Wood-monger,</hi> and the <hi>Chandler.</hi> IN A DIALOGUE, Expreſſing their unjuſt, and cruell raiſing the price of COALES, when, and how they pleaſe, to the generall oppreſſion of the Poore.</p>
+            <p>PENN'D On purpoſe to lay open their ſubtile practices, and for the reliefe of many thouſands of poore people, in, and about the Cities of LONDON, and WESTMINSTER.</p>
+            <p>By a Well-willer to the proſperity of this famous Common-wealth.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Harriſon</hi> at the Holy-Lamb at the Eaſt end of <hi>S. Pauls,</hi> 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="3" facs="tcp:118123:2"/>
+            <head>The Preface to the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough the people of this Nation have expected to ſee a generall Reformation of groſse abuſes and diſhoneſt dealings, and thereupon have not ſpared for any coſts and charges to the juſt promoting and furthering it in all cal<g ref="char:EOLhyphen"/>lings and profeſſions; yet ſuch is the policy &amp; myſtical depth of deceitfulneſſe of ſome men in their courſes, that they can even delude the moſt circumſpect and wiſeſt Spectators. I verily believe, that of all the ſly and ſubtle Cormorants in this Nation, there are not any that do out-ſtrip theſe two Craftſmen, to wit, the <hi>Woodmonger,</hi> and the <hi>Chandler;</hi> and there<g ref="char:EOLhyphen"/>fore it is endeavoured in this Dialogue to diſcover them to the full, and aſſure thy ſelfe (good Reader) tis but the Truth, and neceſſary to be ſhewed to the Worlds view: ſo tis referred to thy approbation and judgement.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="5" facs="tcp:118123:3"/>
+            <head>The two grand Ingroſſers of Coales, <hi>viz.</hi> The Woodmonger, and the Chandler.</head>
+            <sp>
+               <speaker>Chandler.</speaker>
+               <p>HOW is it with you Brother <hi>Stop-coale?</hi> Mee thinks you look ſomething dull and melancho<g ref="char:EOLhyphen"/>like, and yet you nor I have any cauſe to bee diſcouraged eſpecially at this time of the year.</p>
+            </sp>
+            <sp>
+               <speaker>Woodmonger.</speaker>
+               <p>Why ſo, deare Cozen <hi>Hoord-coale?</hi> No mans ſtate is certaine, I am full of fears, doubts, and jealouſies, left ſome honeſt hearted and well affected to the good of this Common-wealth, and for the gene<g ref="char:EOLhyphen"/>rall good of the Belly, Cold, and Backtold generation of poore Tradeſmen, with their Wives, Children, and Servants, from whom (as you know a little better then I) we Spunges doe ſucke no ſmall gaines; I tell you I doubt ſome honeſt Commiſſioners will bee appointed ſuddenly to be Examiners and Overſeers of our actions, and then, you know what followes, I know your Cauſe and mine will bee bad enough, and too bad for us to uphold.</p>
+            </sp>
+            <sp>
+               <speaker>Chandler.</speaker>
+               <p>Tuſh, what's that the matter? doeſt thou not know the old Proverb? <hi>Knaves have better luck then honeſter men:</hi> cannot we joyne and make a purſe? and you know, ſilver bags will worke, eſpecially with good ſtore of Wine, and a rich Feaſt; and for the cry of the poore I eſteem it no more then a flea-biting, and
+<pb n="6" facs="tcp:118123:4"/>howling of a few poore Curres at the Moone: let the poore coole their heels, wee have ſwarmes of them in our Pariſh, and I am glad of it, for they ſupport mee, and are my beſt Merchants, eſpecially in froſt and ſnow, and Saturdayes at night, or if it be on the Lords day i'th morning, at theſe times I can put off any that's black as a coale, though it be a ſtone, and at any rates, becauſe of the ſeaſon; and poore fooles they take mee to be a very charitable minded man: and beſides all this, a gainſt a good time, or in the hardeſt weather, I ſend out to the Churchwardens and Overſeers of the poore but one halfe chaldron of Coales to bee diſtributed to poore Families, though they have the conſciences to give but halfe, and keep the other to themſelves; ah Brother! 'tis ſo, yet all the poore are ſtill'd, and pray to God for me, as a wonderfull charitable minded man, when as I tell you, I did it out of pollicy, and not cha<g ref="char:EOLhyphen"/>rity, and to get more cuſtome for my coales.</p>
+            </sp>
+            <sp>
+               <speaker>Woodmonger.</speaker>
+               <p>I commend your pollicie, I ſee that good wits jumpe together; it's my method too I pro<g ref="char:EOLhyphen"/>miſe you, better to part with the draffe then to loſe all, only I differ from your practice in this, that you ſend halfe a chaldron to the Officers, but I ſend to the poore themſelves to fetch them, whereby I view all my Cuſtomers, and have their manifold prayers, yet God knowes I laugh at their ſimplicity; for this is but a bait to lure them to fetch all the yeare after at my own Yard, where I quickly get in &amp; recover my coales that I gave them, with advantage; but eſpecially by three infallible polliticke tricks, <hi>viz.</hi> ſmall meaſure, high prices, and baſe coales.</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>Very well, and what cauſe have you or I to
+<pb n="7" facs="tcp:118123:4"/>be melancholike? come, I have a cup of rich Aligant to revive our ſpirits, will ye walke? I have inhanſed the price of my coales this laſt weeke from thirty ſhil<g ref="char:EOLhyphen"/>lings the chaldron (which was too much) to thirty eight ſhillings, ſo that I can afford you a mornings draught, the poore ſhall pay for it.</p>
+            </sp>
+            <sp>
+               <speaker>Woodmong.</speaker>
+               <p>How do you bring this about? for I have had but a dead weeke this laſt weeke; ah! this fine warme weather is as bad for our Trade, as 'tis for the Hay-mongers, who expected ſeven or eight pound the load, and by reaſon of this Summer-like Winter are forced to ſell it in Smithfield for fifty five ſhillings <hi>per</hi> Load.</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>Piſh, piſh, I ſee you are not ſo expert in your Trade as you ought; Ile never want pollitick tricks to vend my Coales at what rates I pleaſe: but principally I uſe theſe four or five devices, though they are all falſe, yet I finde they are all gainfull, and taking.</p>
+            </sp>
+            <sp>
+               <speaker>Woodmong.</speaker>
+               <p>What may they be? let me know, for if they bee beneficiall to you, they cannot bee amiſſe for me; for I am as eager to lay lime-twigs to catch poore mens purſes as you can be.</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>Why firſt I vent it out by Carmen, and poor folks, that indeed there was a fleet come of 65. or 70. Saile, almoſt as far as <hi>Harwich,</hi> but there roſe a violent ſtorme, ſo that moſt of the fleet was ſhipwrackt, and the reſt rendred unſerviceable to put to Sea till next Eaſter at leaſt: at the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>port of this, O how the poore ſhrug in their ſhoulders<g ref="char:punc">▪</g> and pawn their pewter diſhes and braſſe, and any goods to the Brokers, to get ſome Coales in at any rate? But if this works not ſo effectu<g ref="char:EOLhyphen"/>ally as I thought, yet it ſeldome failes; however I cauſe
+<pb n="8" facs="tcp:118123:5"/>it to be noyſed and rumored about, that in regard our fleet is now come into Harbours, thoſe inſolent Dutch Pickeroons with ſome men of War, lie upon or neere <hi>Sunderland,</hi> and the North coaſts, that a Collier can<g ref="char:EOLhyphen"/>not ſtir out, and this affrights the meaner ſort of peo<g ref="char:EOLhyphen"/>ple, that they cry out, Alaſs! would theſe wars were once done with the Hollander, elſe wee poore muſt ſtarve: and is not this a cunning ſleight? yet if this fails, I have a third Engine, and that is a ſure one, for I ſeeme to be penſive, and complaine to the poor them<g ref="char:EOLhyphen"/>ſelves, as they come to my Warehouſe for Coals, how that indeed there was a great fleet comming in, but putting in to <hi>Yarmouth,</hi> all the Colliers were preſſed for the States Service to be Seamen, ſo that the Navy can<g ref="char:EOLhyphen"/>not come up; and then I doe adde, Seamen muſt bee had, and we want Seamen, and wee loſt abundance of Saylers in the laſt great fight, and Seamens ſervice is hard now, and many doe ſhunne it, and the pay is but ſmall, and the Navy muſt ſpeedily put to Sea, and that the Hollander is maine ſtrong already, and the Danes are joyned with him, ſo that to all likelihood, there's no hopes of Coales, and then I ſigh and ſay it is pittifull for the poore, but however I am almoſt undone by this means, for moſt of my ſtock (as I pretend) lies in the ſafety of that fleet of Colliers; upon this falſe ſtory com<g ref="char:EOLunhyphen"/>monly told, I laugh inwardly how it works upon poore neceſſitous people to buy up coales ſo eagerly, that they are ready to fight, who ſhall be ſerved firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Woodmong.</speaker>
+               <p>Oh admirable, and politickly done!</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>And yet to heighten my price I adde, good people, you ſee my ſtore, when theſe are gone, I know not how to procure more, (though he hath three or four
+<pb n="9" facs="tcp:118123:5"/>great Cellars full againſt harder weather come, and and higher rates, and then I complaine of the multi<g ref="char:EOLhyphen"/>tude of Ale-Brewers, and Beere-Brewers, and Diars, and Cookes, and Smiths, and Founders, and Glaſſe<g ref="char:EOLhyphen"/>houſes; and pretend that theſe and many others doe in the time of yeare buy up all, or at leaſt ſo many as will ſerve for three years following; and this they con<g ref="char:EOLhyphen"/>clued to be true indeed, and this whets them on to fur<g ref="char:EOLhyphen"/>niſh themſelves, though at any price; and then I vend my worſt Coals, or mingle them with a few good ones: Nay, rather then faile, Ile bid them come downe to your Coale-Yards, for I know well enough you and we are ſo wiſe as not to ſhew all to publick; Oh! this point of reſervation is as advantagious to our purſes, as it hath been to the Popiſh Jeſuites, a little quantity, ſayes the poore, is better then never a whit; when as we laugh at them when they are gone, and ſay to our ſelves, <hi>we have goods layd up for many years.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Woodm.</speaker>
+               <p>Oh rare policy! ſurely thou haſt mightily incouraged mee to keep up my myſtery; for theſe are ſure Holders, and will lick in moneys from all ſorts of people.</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>Moreover, I tell you Brother, a man muſt live by his wits; men of my profeſſion never make ſcruple of Conſcience for what we doe: I adde more<g ref="char:EOLhyphen"/>over to the former inventions, that there is a great de<g ref="char:EOLhyphen"/>cay of Woods, many being of late grubb'd and ſtubb'd up, and that Heaths and Commons in many places of England, where poore people had wont to gather Fearn, and Heath, and Goſſe, and Furſe, are now clean<g ref="char:EOLhyphen"/>ſed and turned into Corne land, ſo that the poore muſt burn Coales or ſterve; beſides the Hoſpitals, and Alms-houſes,
+<pb n="10" facs="tcp:118123:6"/>Priſons, and ſundry Courts of Guards of Soul<g ref="char:EOLhyphen"/>diers muſt all have Coales, and what hope is there that they ſhould not be at high prices? what doe you think of all theſe practiſes?</p>
+            </sp>
+            <sp>
+               <speaker>Woodm.</speaker>
+               <p>All extraordinary, and neat, and ſure ſtrata<g ref="char:EOLhyphen"/>gems to get wealth and to grow fat and ſuddenly rich.</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>Theſe are my Pullies and Engines to inhance or to keep up Coales at a high rate: I would hear now what devices you uſe to ſqueeze your Cuſtomers.</p>
+            </sp>
+            <sp>
+               <speaker>Woodm.</speaker>
+               <p>Why I would not have you thinke that we doe not only equalize, but rather exceed theſe ſtrata<g ref="char:EOLhyphen"/>gems; you know firſt our Cuſtomers are not of the beggerly rabble of poore Silk-weavers, Button-makers, Taylors, Rag-men, Bonelace-makers, Tobacco pipe-makers, Waſh-women, ſcolding Oyſter-wives, who ſeldome goe above halfe a buſhel at a time, and that but againſt ſome good time too, but we deal with Brew<g ref="char:EOLhyphen"/>ers, and Diers, and Merchants, and rich Citizens, ſome of whom fetches in forty, fifty, or a hundred Chaldron at a time, ſome twenty, ſome five; none comes into our Purlews at leſſe then one or two Chaldron, beſides Bil<g ref="char:EOLhyphen"/>lets and Chamber-faggots for their Wives lying in; neither do our Cuſtomers deſire forbearance of pay, for they come with money in hand; we do not uſe Chaulk nor Counting-books, down pay, ready receit, and pre<g ref="char:EOLhyphen"/>ſent Caſh are our Cuſtomers Arguments: we deale not with Fowls that want feathers; it's good fiſhing at a comming Tyde: now becauſe you have diſcovered to me your proceedings, you ſhall judge if we be not your Maſters at this Game, both for gaines and knavery: as firſt, we all know that Noble men and the Gentry, and Brewers will deſire to be firſt ſerved; now we complot,
+<pb n="11" facs="tcp:118123:6"/>when as in Summer time their Stewards, or Caſh-kee<g ref="char:EOLhyphen"/>pers come to enquire how coales are likely to be? and whether there be any lately come in; when they come to our Yards, we wil not ſeem to be within at firſt com<g ref="char:EOLhyphen"/>ming, but either our Wives or Yard-men ſhall ſalute them with a kinde of heavy countenance, and after the how doe yee? and I am glad to ſee you, and I hope my good Lord, &amp;c. is well, with other ſleight diſſembling Complements are over, the Steward preſently begins preſently to aske what wee deſire to heare, how goe Coales? what rates do they beare? and the like; our Wives have the Art pritty well, for wee teach them, though we need not to diſſemble to give a ſigh, and ſay, indeed Sir I am ſorry to tell you, wee are very loath to ſell any as yet, for our ſtores are almoſt ſpent, and the Warres continue, and there were ſome fifty ſayle of Colliers ready to goe out, but there is an Order from the State to ſtop them, and the Colliers are put into Friggots as faſt and as ſoon as they come aboard, ſo that our firſt returne is loſt, which was alwayes the beſt, and when the Seas will be cleared we know not; with many ſuch affrighting ſpeeches, to the amazement of the Steward, who wee know will furniſh himſelfe, at what rates ſoever, and ſo begins to plead; well, my Lord hath had his Coales a long time heere, and they were alwayes good, and I do not intend to change this place, and go to another: I muſt therefore have you promiſe mee faithfully to let mee have this next weeke thirty or forty chaldron, we will not ſtand for price, and my Lord will not ſtand to the hazard of Winter, and then provide: no, no, and therefore if you pleaſe to re<g ref="char:EOLhyphen"/>member me to your Husband, and make me a promiſe,
+<pb n="12" facs="tcp:118123:7"/>I will give you a paire of Gloves, and your Husband a pottle of Wine and a Neats Tongue, at our meeting: Truly, replies the Wife, Sir, heere hath been my Lord ſuch a ones Steward, and ſuch and ſuch a Brewer, and I heard them talke of a hundred, or two hundred chal<g ref="char:EOLhyphen"/>dron a piece, and whether my Husband hath promis'd them or not I know not, but if he hath, I doubt our ſtore will not hold out to ſupply all; but I'le do what I can with my Husband to furniſh my good Lord: Well ſpoke, replies the Steward, and to remember mee the ſooner, I do intreat you to let me pay five pounds now, for I brought it for the ſame purpoſe; and I ſhall in<g ref="char:EOLhyphen"/>forme my Lord of your great reſpect to him and care for him: thus our Wives feeling the pulſes beat high and throughly ſeemingly ſayes, Sir, if you pleaſe to leave ſo much moneyes I ſhall ſhew it my Husband, and it may prevaile with him to remember you the ſooner. Thus it is with our cuſtomers, and is this not pretty diſ<g ref="char:EOLhyphen"/>ſembling ſport, for I have the money and preſently I im<g ref="char:EOLhyphen"/>ploy it, and deferr the coales under ſome pretence or o<g ref="char:EOLhyphen"/>ther at leaſt three or foure months? as thus we live in hopes that the fleet will be ſpeedily in the Thames, and then he ſhall be ſure to have good ones; let him reſolve upon it, let him truſt me to provide for him: and ſo he reſts ſatisfied, and glad that he is ſure to have them; though in that ſpace I have the uſe of his money, and buy the Coales for halfe thoſe rates I had of him: how like you this Ginn?</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>Truly Brother I perceive you have cunning tricks to fetch in great Fiſh into your Nets, and you want not Art to ſpread them; but where you catch one we have a hundred come to us.</p>
+            </sp>
+            <pb n="13" facs="tcp:118123:7"/>
+            <sp>
+               <speaker>Woodm.</speaker>
+               <p>Piſh man, if that Art ſhould faile, we uſe a<g ref="char:EOLhyphen"/>nother; for you muſt know we deale with a Fleet of Colliers as Hunters do with their Hounds, do not let all run out at once at the Game, but now ſome, and then ſome; ſo we, though the Fleet be an hundred ſaile, yet we meet them at <hi>Yarmouth,</hi> or before they come ſo farr, and ſuffer not above twenty or thirty to appeare at a time, and then give out the reſt are ſuſpected to be loſt, or taken, and ſo perſwade men to take theſe while they may, and not to truſt upon uncertainties of more com<g ref="char:EOLhyphen"/>ming in, and the like; nay, we tell the Maſters that our Yards are full at <hi>London,</hi> that money is dead, now they muſt deliver and ſell forthwith, or elſe their charges will quickly eat out their gaines, and ſo we get coals at our owne prices, and ſell them as we liſt; beſides this, we buy after ſhip-meaſure, but ſell after our own, and wee have Carmen, whoſe Sackes (if the Magiſtrates would looke after them) are ſome of them halfe a foot too ſhort, and almoſt as much too narrow, and this fills our pockets all the yeare long; and they uſe to keepe their Sacks always wet, that they may ſhrink the more: I tell thee plainly, that by this onely trick we have got<g ref="char:EOLhyphen"/>ten twenty buſhels of coales cleare to our ſelves out of three chaldron; and is not this a thriving Trade?</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>I aſſure you Brother, you ſpeak to the pur<g ref="char:EOLhyphen"/>poſe, yet being we are by our ſelves, and as I hope none hears us, I will ſcarce yeeld to you in this Craft; for I ſeriouſly proteſt unto you, that my Meaſures, eyther halfe or whole peck or buſhell are ſcanty enough; for I thrive chiefly by falſe weights and falſe meaſures, and quick return, quick returne you know, makes a heavy purſe; and I hope it will not be alwayes fayre, calme,
+<pb n="14" facs="tcp:118123:8"/>weather; <hi>Lilly</hi> and <hi>Culpepper,</hi> and the reſt of the ſtar<g ref="char:EOLhyphen"/>gazers, who for my beleefe can ſtare no further into a Star than into a Milſtone, yet all of them tell us of ſnow and froſt and ſlabby cold weather, which however the weather proves, yet theſe buzzes and Prognoſtications have gained credit amongſt many, both men and wo<g ref="char:EOLhyphen"/>men, and ſo bring in our Cuſtomers the faſter, which wee make pay for their ſimple credulity; and for my part, I could finde in my heart to ſpare halfe a chaldron of Coales to bee diſtributed amongſt the ſtar-gazing fraternity, to warm their Noſes at their Criticall Con<g ref="char:EOLhyphen"/>ventions, and to uphold their Predictions, and to pro<g ref="char:EOLhyphen"/>cure them to write commonly of a cold, ſnowy, and a very hard Winter ſeaſon to come; you cannot imagine how people doe confide in theſe Aſtrologers concepti<g ref="char:EOLhyphen"/>ons; what think you Brother?</p>
+            </sp>
+            <sp>
+               <speaker>Woodm.</speaker>
+               <p>Truly I know you to bee good furtherers of our gaines, and it is my intent to make uſe of their ſay<g ref="char:EOLhyphen"/>ings, but I intend not to beſtow any thing upon the Blades, for they doe not really intend or ayme at our good, nor ever had us in their Calender amongſt their friends, but write, as we uſe to ſay, at hap-hazard; nei<g ref="char:EOLhyphen"/>ther doe they care whether we thrive or not: but to diſ<g ref="char:EOLhyphen"/>cloſe ſome deeper craft in our dealing yet, I tell thee, Brother <hi>Hoord-Coale,</hi> wee know that wee are hated and curſed of every man, but then we Foxes fare beſt; wee have an intention to keep up ſuch a thriving Monopoly amongſt our ſelves, that except the wiſedome and Ju<g ref="char:EOLhyphen"/>ſtice of a Parliament, or a Councell of State interpoſe and hinder us by ſtinting our number, or ſetting a Rate upon the price, or limiting how much each of us ſhall lay out, or by taking the Coale-pits into the States
+<pb n="15" facs="tcp:118123:8"/>hands, and ſo manage them out and in with able Con<g ref="char:EOLhyphen"/>voyers; ſome of which I greatly feare: for I confeſs the profits of the Pits belongs rather to the State than to us, which if they doe, farewell the faireſt flower in my Garden: I tell you Brother, there is ſuch a generall ex<g ref="char:EOLhyphen"/>clamation of people of all ſorts againſt us, and of late there hath been a ſuit at Law and odious Petitions ex<g ref="char:EOLhyphen"/>habited againſt our dealings, and not without juſt cauſe, I confeſſe, that I doubt our beſt dayes are paſt, if we can goe clear off with what wee have gotten already; but however I am as buſie yet, as a hungry Ferret in a rich Cony borough; for as I heare there are now ſome 40. or 50. Saile of Colliers come into the Poole, and the poor people have great hopes to ſee Coales fall in their prices, and that they ſhall be for them, when as, alaſſe, poore ſilly fools, our Agents at Newcaſtle have bought them for us; if the poor will have them, they are ſure to have them at what rates wee pleaſe, and out of our yeards: for they were all bought by us before they de<g ref="char:EOLhyphen"/>parted from Newcaſtle; for if we be not diſturbed, this Winter will be my beſt harveſt, and the worſt weather brings our greateſt incomes; what think you Brother, of this our policy?</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>I commend your wiſedome for preventing o<g ref="char:EOLhyphen"/>thers, and I am beholden to you for ſuffering mee to put in a ſhare; I promiſe you I have my halfe pecks, pecks, halfe buſhels and buſhels, fitted for my owne purpoſe; and I keep two nimble Lads my Apprentices, that are excellent for not overfilling them, I warrant you the poor get no heapd up, or overfild, or preſſed down mea<g ref="char:EOLhyphen"/>ſure at my ſhop; I ſay plainly to you, that <hi>viis &amp; modis</hi> by one helpe or other, I get halfe in halfe out of poore
+<pb n="16" facs="tcp:118123:9"/>ſneaking impotent people; and if my Coals fayl, I have all other things which I know the pooreſt people muſt have; but whatſoever they buy of me, they may reſolve that they muſt pay double, as two pence for a peny fag<g ref="char:EOLhyphen"/>got, and ſo for a pound of cheeſe or butter, and for bread I am in league with a Baker, that notwithſtanding the preſent cheapneſs of Corne, and the Lord Mayors Or<g ref="char:EOLhyphen"/>ders, knows how to puffe up a loafe that ſhould bee but for one peny to two pence, that of two pence to a groat, and the ſame order I hold in all my other commodi<g ref="char:EOLhyphen"/>ties, and yet my ſhop is ſo filled with goore people, that never were Waſps more buſie about a honey pot in a Summers day, then they are at my Shop and Cellar on Saturday nights and froſty mornings.</p>
+            </sp>
+            <sp>
+               <speaker>Woodm.</speaker>
+               <p>Did you thinke I had but one ſtring to my bow? you know how I ingroſſe Wood of all ſorts, as well as Coales; I have Billets but ſoundly nicked and marked, Ile warrant you where I had them with three notches, I adde three more; and ſtack wood, and fag<g ref="char:EOLhyphen"/>gots, and ſprey; I deale in hard coale, and charcoale, in ſmall coale, and what not for gains? if one mill will not grind, another ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>Chand.</speaker>
+               <p>Well, well, our caſe is good enough yet, and for my part I fear nothing; for the coldeſt weather, rough Seas, the Hollander out, and our Navy at home, and none inform the Magiſtrate of our actions, are all pleaſing and comfortable to us: and I tell you Brother, this preſent ſeaſon makes the poore to ſhrinke, the rich to provide: I had theſe three laſt mornings a hundred poore people flocking to get coales, all fearing leſt they will riſe, which I promiſe they ſhall, if my cunning and policy faile me nor.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
